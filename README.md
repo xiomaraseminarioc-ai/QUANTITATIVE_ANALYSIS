@@ -1,7 +1,5 @@
 
----
 
-## 💼 Estilo profesional (portafolio/empresa)
 ```markdown
 # Proyecto de Análisis en R – ENAHO 2024
 
