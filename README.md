@@ -22,4 +22,3 @@ Proveer un análisis reproducible y visualizaciones claras que permitan comprend
 👩‍💻 Xiomara Seminario C.  
 Especialista en análisis de datos sociales y encuestas  
 
-![Gráfico de Gobernanza](https://raw.githubusercontent.com/xiomaraseminarioc-ai/QUANTITATIVE_ANALYSIS/main/grafico1.png)
