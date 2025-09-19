@@ -21,3 +21,5 @@ Proveer un análisis reproducible y visualizaciones claras que permitan comprend
 ## Autora
 👩‍💻 Xiomara Seminario C.  
 Especialista en análisis de datos sociales y encuestas  
+
+![Mi gráfico](Modulo%20Governanza/grafico1.png)
