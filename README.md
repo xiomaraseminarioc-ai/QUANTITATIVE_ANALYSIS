@@ -22,5 +22,5 @@ Proveer un análisis reproducible y visualizaciones claras que permitan comprend
 👩‍💻 Xiomara Seminario C.  
 Especialista en análisis de datos sociales y encuestas  
 
-![Mi gráfico](![Mi gráfico](https://raw.githubusercontent.com/xiomaraseminarioc-ai/QUANTITATIVE_ANALYSIS/grafico1.png))
+![Mi gráfico](![Mi gráfico](https://raw.githubusercontent.com/xiomaraseminarioc-ai/QUANTITATIVE_ANALYSIS/main/grafico1.png))
 
