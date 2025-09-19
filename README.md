@@ -25,4 +25,3 @@ Especialista en análisis de datos sociales y encuestas
 ![Mi gráfico](https://raw.githubusercontent.com/xiomaraseminarioc-ai/QUANTITATIVE_ANALYSIS/main/grafico1.png)
 
 
-
